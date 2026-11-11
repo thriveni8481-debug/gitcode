@@ -1,3 +1,3 @@
 this is git bash lab 
-hgkjghfgmkjhj
-added text
+Good afternoon git lab CS b students
+today we learn experiment 6
