@@ -1,4 +1,3 @@
 this is git bash lab 
 good afteer noon students welcome to git lab
-i just modified the code part
-only fetch not mergeing
+
